@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+h1{
+    color: white;
+    font-family: "consolas", sans-serif;
+    border-bottom-style: solid;
+    font-size: 49px;
+}
+
+p{
+    color: white;
+    font-family: "consolas", sans-serif;
+    border-style: solid;
+    padding: 5px;
+    
+}
+
+#h1{
+    color: rgb(255, 0, 0);
+    border-bottom-style: solid;
+    border-color: white;
+}
+
+font{
+    color: blue;
+    font-size: 25px;
+
+}
